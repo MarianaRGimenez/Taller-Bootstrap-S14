@@ -1,0 +1,47 @@
+h1 {
+  margin-left: 10px;
+}
+
+
+.navbar {
+  background-color: grey;
+}
+
+.navbar-brand {
+  color: #fff;
+}
+
+.nav-item {
+  color: #fff;
+  margin-left: 0px;
+}
+
+.navbar-nav .nav-link {
+  color: white !important;
+}
+
+.col {
+  background-color: rgb(240, 240, 240);
+  border-radius: 5px;
+  margin: 2px;
+  display: flex;
+}
+
+.opcion-box {
+  display: flex;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin: 0px;
+  text-decoration: underline;
+  border-radius: 5px;
+}
+
+.carousel-fade .carousel-item {
+  transition: opacity 2s ease-in-out;
+}
+
+#myCarousel {
+  transition: opacity 2s ease-in-out;
+  margin-left: 410px;
+}
